@@ -1,7 +1,7 @@
 # flutter_spotify_ui
 
 UI 
-![alt text](ui_images/spot.png)
+![alt text](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/spot.PNG)
 
 This project is a starting point for a Flutter application.
 
