@@ -1,7 +1,7 @@
 # flutter_spotify_ui
 
 UI 
-<img src='spot.png' alt='spotify_ui'>
+![alt text](ui_images/spot.png)
 
 This project is a starting point for a Flutter application.
 
