@@ -15,7 +15,7 @@ You can build the same and Much more with this Guy,  -[Youtube Marcus NG](https:
 
 File Structure:
 ==========================
-root -Assets
+"""Root -Assets
      -fonts
      -UI_images(Outputs)
      -Pubspec.yaml
@@ -37,7 +37,7 @@ root -Assets
                         -tracks_list.dart 
                         -widgets.dart(exports)
     -main.dart
-    others
+    others"""
 
 
 
