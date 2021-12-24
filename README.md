@@ -15,12 +15,17 @@ You can build the same and Much more with this Guy,  -[Youtube Marcus NG](https:
 
 File Structure:
 ==========================
-"""Root -Assets
-     -fonts
-     -UI_images(Outputs)
-     -Pubspec.yaml
-     -README.md
-     -Lib-   
+        
+       Root -Assets
+            -fonts
+            -UI_images(Outputs)
+            -Pubspec.yaml
+            -README.md
+            -Lib- 
+                    
+                    
+                    
+            
             -Data(Contains all the dummy data used in the app)
             -Models     -current-track_model.dart
                         -models.dart(exports)
