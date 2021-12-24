@@ -1,9 +1,45 @@
 # flutter_spotify_ui
 
-UI 
-![alt text](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/spot.PNG)
+Flutter Spotify Clone, On the Web
+![final output](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/final_output_spot.PNG)
 
-This project is a starting point for a Flutter application.
+Resposive! Side Menu and More Controls Hidden when the screens size becomes too small.
+
+![responsive](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/responsive_spot_final.PNG)
+Next Screen to build 
+![to_do_build](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/newspot1.PNG)
+
+
+
+You can build the same and Much more with this Guy,  -[Youtube Marcus NG](www.youtube.com/marcusng)
+
+File Structure:
+==========================
+Root-Assets
+    -fonts
+    -UI_images(Outputs)
+    -Pubspec.yaml
+    -README.md
+    -Lib-   
+            -Data(Contains all the dummy data used in the app)
+            -Models     -current-track_model.dart
+                        -models.dart(exports)
+            
+                    
+                
+            -Screens    -playlist_screen.dart
+                        -Screens.dart(exports)
+
+
+            -Widgets-    current_track.dart
+                        -playlist_header.dart
+                        -side_menu.dart
+                        -tracks_list.dart 
+                        -widgets.dart(exports)
+    -main.dart
+    others
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -13,3 +49,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
