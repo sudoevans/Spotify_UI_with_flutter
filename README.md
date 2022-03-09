@@ -1,22 +1,22 @@
 # flutter_spotify_ui
 
-##Flutter Spotify Clone, On the Web
+## Flutter Spotify Clone, On the Web
 ![final output](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/final_output_spot.PNG)
 
-##Resposive! Side Menu and More Controls Hidden when the screens size becomes too small.
+## Resposive! Side Menu and More Controls Hidden when the screens size becomes too small.
 
 ![responsive](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/responsive_spot_final.PNG)
-Next Screen to build 
+## Next Screen to build 
 ![to_do_build](https://github.com/Snave254/Spotify_UI_with_flutter/blob/main/ui_images/new_spot1.PNG)
 
 
 
 **You can build the same and Much more with this Guy,  -[Youtube Marcus NG](https://www.youtube.com/watch?v=HJ1AlSrgZVQ&t=435s)**
 
-'''File Structure:
+## File Structure:
 ==========================
         
-       Root -Assets
+       ''' Root -Assets
             -fonts
             -UI_images(Outputs)
             -Pubspec.yaml
