@@ -14,8 +14,6 @@
 **You can build the same and Much more with this Guy,  -[Youtube Marcus NG](https://www.youtube.com/watch?v=HJ1AlSrgZVQ&t=435s)**
 
 ## File Structure:
-==========================
-        
        ''' Root -Assets
             -fonts
             -UI_images(Outputs)
